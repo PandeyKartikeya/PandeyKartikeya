@@ -40,14 +40,14 @@ I work with Python, data and AI to build practical solutions that turn raw infor
 
 ## Featured projects
 
-| Project                         | What it is                                            | ⭐       |
+| Project                         | What it is                                            | ⭐     |
 | ------------------------------- | ----------------------------------------------------- | ------- |
-| **[JARVIS]()**                  | Voice-controlled AI desktop assistant in Python       | **100** |
-| **[PC-Automation]()**           | Gives any AI agent real hands on a Mac                | **26**  |
-| **[VideoGenPro]()**             | Deterministic agent-authorable motion graphics engine | **4**   |
-| **[GitHub Agent]()**            | Browser-native AI assistant for your repositories     | **8**   |
-| **[MacBook Pro in Three.js]()** | Spec-accurate MacBook modelled purely in code         | **1**   |
-| **[Developer Portfolio]()**     | Next.js portfolio template you can fork today         | **9**   |
+| **[1]()**                       | Something                                             | **0**   |
+| **[2]()**                       | Something                                             | **0**   |
+| **[3]()**                       | Something                                             | **0**   |
+| **[4]()**                       | Somethings                                            | **0**   |
+| **[5]()**                       | Something                                             | **0**   |
+| **[9]()**                       | Something                                             | **0**   |
 
 ---
 

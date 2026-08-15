@@ -26,8 +26,9 @@
 
 ## About me
 
-I work with Python, data and AI to build practical solutions that turn raw information into useful insights and intelligent applications. 
-<img align="right" src="" alt="name" width="15%"/>
+I work with Python, data and AI to build practical solutions that turn raw information into useful insights and intelligent applications.<br>
+
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg3dHdmeDd6eGgyYm45YWZ6bmdyNmNyYjNiNmMzdXcwZmt6d2RvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" alt="Rule of programming" width="17%"/>
 
 * Focus areas: Data Science, Machine Learning, Artificial Intelligence and Automation
 * Core language: **Python**

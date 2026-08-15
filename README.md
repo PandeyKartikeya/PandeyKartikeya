@@ -120,6 +120,7 @@ I work with Python, data and AI to build practical solutions that turn raw infor
 <a href="">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<br><br>
 
 Open to collaboration on data science, AI and automation projects.
 
